@@ -1,0 +1,10 @@
+{
+  "name": "ioc-lens",
+  "version": "0.1.0",
+  "description": "Normalize indicators of compromise and collect context from pluggable providers",
+  "type": "module",
+  "bin": { "ioc-lens": "bin/ioc-lens.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=24" },
+  "license": "MIT"
+}
